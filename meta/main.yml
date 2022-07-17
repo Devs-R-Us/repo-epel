@@ -3,9 +3,9 @@ dependencies: []
 
 galaxy_info:
   role_name: repo-epel
-  author: geerlingguy
+  author: geerlingguy oneill
   description: EPEL repository for RHEL/CentOS.
-  company: "Midwestern Mac, LLC"
+  company: "SGC"
   license: "license (BSD, MIT)"
   min_ansible_version: 2.5
   platforms:

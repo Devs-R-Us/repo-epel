@@ -4,4 +4,4 @@
   become: true
 
   roles:
-    - role: geerlingguy.repo-epel
+    - role: legitservices.repo-epel
